@@ -15,7 +15,6 @@
 		73E119322002C585006E3863 /* SampleVideo_1280x720_5mb.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73E119312002C585006E3863 /* SampleVideo_1280x720_5mb.mp4 */; };
 		73E119362002CAFC006E3863 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73E119342002CAFC006E3863 /* AVKit.framework */; };
 		73E119372002CAFC006E3863 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73E119352002CAFC006E3863 /* AVFoundation.framework */; };
-		73E119392002D14D006E3863 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73E119382002D14D006E3863 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		73E119312002C585006E3863 /* SampleVideo_1280x720_5mb.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = SampleVideo_1280x720_5mb.mp4; sourceTree = "<group>"; };
 		73E119342002CAFC006E3863 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		73E119352002CAFC006E3863 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		73E119382002D14D006E3863 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 		73E1191E2002C4F7006E3863 /* ACVideoPlay2 */ = {
 			isa = PBXGroup;
 			children = (
-				73E119382002D14D006E3863 /* Default-568h@2x.png */,
 				73E1191F2002C4F7006E3863 /* AppDelegate.swift */,
 				73E119212002C4F7006E3863 /* ViewController.swift */,
 				73E119232002C4F7006E3863 /* Main.storyboard */,
@@ -148,7 +145,6 @@
 				73E1192A2002C4F7006E3863 /* LaunchScreen.storyboard in Resources */,
 				73E119272002C4F7006E3863 /* Assets.xcassets in Resources */,
 				73E119322002C585006E3863 /* SampleVideo_1280x720_5mb.mp4 in Resources */,
-				73E119392002D14D006E3863 /* Default-568h@2x.png in Resources */,
 				73E119252002C4F7006E3863 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
